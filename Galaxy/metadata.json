@@ -1,0 +1,6 @@
+{
+  "name": "Galaxy S24",
+  "description": "Chiếc điện thoại Samsung Galaxy S24 Ultra chạy hệ điều hành Android One UI với đầy đủ tính năng: Google Play Store, Gọi điện, Nhắn tin, Máy ảnh, Bộ sưu tập, Samsung Notes vẽ S-Pen, Đồng hồ, Máy tính, Cài đặt, Edge Panel, Always On Display.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
